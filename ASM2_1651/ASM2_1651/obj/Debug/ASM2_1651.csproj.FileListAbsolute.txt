@@ -1,0 +1,8 @@
+D:\Greenwich\Advanced Programming\Code\ASM2_1651\ASM2_1651\bin\Debug\ASM2_1651.exe.config
+D:\Greenwich\Advanced Programming\Code\ASM2_1651\ASM2_1651\bin\Debug\ASM2_1651.exe
+D:\Greenwich\Advanced Programming\Code\ASM2_1651\ASM2_1651\bin\Debug\ASM2_1651.pdb
+D:\Greenwich\Advanced Programming\Code\ASM2_1651\ASM2_1651\obj\Debug\ASM2_1651.csproj.AssemblyReference.cache
+D:\Greenwich\Advanced Programming\Code\ASM2_1651\ASM2_1651\obj\Debug\ASM2_1651.csproj.SuggestedBindingRedirects.cache
+D:\Greenwich\Advanced Programming\Code\ASM2_1651\ASM2_1651\obj\Debug\ASM2_1651.csproj.CoreCompileInputs.cache
+D:\Greenwich\Advanced Programming\Code\ASM2_1651\ASM2_1651\obj\Debug\ASM2_1651.exe
+D:\Greenwich\Advanced Programming\Code\ASM2_1651\ASM2_1651\obj\Debug\ASM2_1651.pdb
